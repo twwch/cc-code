@@ -1,0 +1,7 @@
+node_modules/
+dist/
+bun.lockb
+*.zip
+.DS_Store
+
+claude-code.zip
